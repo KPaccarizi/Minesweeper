@@ -26,3 +26,7 @@ This is a classic Minesweeper game implemented in Python using Tkinter for the G
 
    ```bash
    git clone https://github.com/your-username/minesweeper-game.git
+
+
+
+![Minesweeper ](game.png)
